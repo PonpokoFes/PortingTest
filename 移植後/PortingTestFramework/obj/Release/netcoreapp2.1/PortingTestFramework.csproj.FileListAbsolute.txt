@@ -1,0 +1,9 @@
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\PortingTestFramework.dll.config
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\PortingTestFramework.deps.json
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\PortingTestFramework.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\PortingTestFramework.pdb
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.AssemblyInfoInputs.cache
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.AssemblyInfo.cs
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.pdb

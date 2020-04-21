@@ -30,3 +30,12 @@ C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\De
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\Debug\PortingTestFramework.csproj.CopyComplete
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\Debug\PortingTestFramework.exe
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\Debug\PortingTestFramework.pdb
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\bin\Debug\PortingTestFramework.exe.config
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\bin\Debug\PortingTestFramework.exe
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\bin\Debug\PortingTestFramework.pdb
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\obj\Debug\PortingTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\obj\Debug\PortingTestFramework.csproj.CopyComplete
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\obj\Debug\PortingTestFramework.exe
+C:\Users\yuta\Documents\GitHub\PortingTest\移植前\PortingTestFramework\obj\Debug\PortingTestFramework.pdb

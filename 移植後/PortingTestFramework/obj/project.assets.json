@@ -971,11 +971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuta\\Documents\\GitHub\\PortingTest\\Framework\\PortingTestFramework\\PortingTestFramework.csproj",
+      "projectUniqueName": "C:\\Users\\yuta\\Documents\\GitHub\\PortingTest\\移植後\\PortingTestFramework\\PortingTestFramework.csproj",
       "projectName": "PortingTestFramework",
-      "projectPath": "C:\\Users\\yuta\\Documents\\GitHub\\PortingTest\\Framework\\PortingTestFramework\\PortingTestFramework.csproj",
+      "projectPath": "C:\\Users\\yuta\\Documents\\GitHub\\PortingTest\\移植後\\PortingTestFramework\\PortingTestFramework.csproj",
       "packagesPath": "C:\\Users\\yuta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuta\\Documents\\GitHub\\PortingTest\\Framework\\PortingTestFramework\\obj\\",
+      "outputPath": "C:\\Users\\yuta\\Documents\\GitHub\\PortingTest\\移植後\\PortingTestFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1006,6 +1006,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
