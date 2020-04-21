@@ -20,11 +20,9 @@ C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\De
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Security.AccessControl.dll
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Security.Permissions.dll
-C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Security.Principal.Windows.dll
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Configuration.ConfigurationManager.xml
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Security.AccessControl.xml
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Security.Permissions.xml
-C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\bin\Debug\System.Security.Principal.Windows.xml
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\Debug\PortingTestFramework.csprojAssemblyReference.cache
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\Debug\PortingTestFramework.csproj.CoreCompileInputs.cache
 C:\Users\yuta\Documents\GitHub\PortingTest\Framework\PortingTestFramework\obj\Debug\PortingTestFramework.csproj.CopyComplete
