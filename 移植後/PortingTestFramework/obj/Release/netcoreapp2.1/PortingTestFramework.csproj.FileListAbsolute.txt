@@ -7,3 +7,4 @@ C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Re
 C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.AssemblyInfo.cs
 C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.dll
 C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.pdb
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\PortingTestFramework.csprojAssemblyReference.cache

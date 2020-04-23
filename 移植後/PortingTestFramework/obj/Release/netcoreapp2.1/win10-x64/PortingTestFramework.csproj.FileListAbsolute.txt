@@ -1,0 +1,15 @@
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.dll.config
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.deps.json
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.pdb
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\win10-x64\PortingTestFramework.csprojAssemblyReference.cache
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\win10-x64\PortingTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\win10-x64\PortingTestFramework.AssemblyInfoInputs.cache
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\win10-x64\PortingTestFramework.AssemblyInfo.cs
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\win10-x64\PortingTestFramework.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\obj\Release\netcoreapp2.1\win10-x64\PortingTestFramework.pdb
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.exe
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.runtimeconfig.json
+C:\Users\yuta\Documents\GitHub\PortingTest\移植後\PortingTestFramework\bin\Release\netcoreapp2.1\win10-x64\PortingTestFramework.runtimeconfig.dev.json
